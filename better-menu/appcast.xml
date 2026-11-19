@@ -5,5 +5,13 @@
         <link>https://raw.githubusercontent.com/v4vad/app-releases/main/better-menu/appcast.xml</link>
         <language>en</language>
         <!-- New releases are added below this line by the app's scripts/release.sh (publish option) -->
+        <item>
+            <title>better-menu 0.1</title>
+            <pubDate>Thu, 19 Nov 2026 13:30:55 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/v4vad/app-releases/releases/download/better-menu-v0.1/BetterMenu-0.1.dmg" type="application/octet-stream" sparkle:edSignature="xKhZlsT7oKQQOpmgKnj6jacjU3A86AUuVdmraqyhJbczEzVHHJCzkC865zUUrIwPHHFznIClNmLYfVxZiTgVBQ==" length="1850268" />
+        </item>
     </channel>
 </rss>
