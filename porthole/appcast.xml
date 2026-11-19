@@ -4,6 +4,6 @@
         <title>porthole updates</title>
         <link>https://raw.githubusercontent.com/v4vad/app-releases/main/porthole/appcast.xml</link>
         <language>en</language>
-        <!-- New releases are added below this line by the app's scripts/release.sh --publish -->
+        <!-- New releases are added below this line by the app's scripts/release.sh (publish option) -->
     </channel>
 </rss>
